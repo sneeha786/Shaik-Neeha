@@ -1,0 +1,9 @@
+{
+  "name": "neeha-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shaik Neeha's cybersecurity-inspired personal portfolio",
+  "scripts": {
+    "start": "node server.cjs"
+  }
+}
